@@ -35,5 +35,5 @@ July accounted for 20.83% of Total Revenue Generated.﻿﻿
 ﻿﻿Stores from DELHI city accounted for 18.14% of Total Revenue generated.﻿﻿
 
 ### Suggestion to increase revenue : 
-1. As the sales and revenue for products of SSIPL was at peak during June , July and August ,ads and promotion can be run during this time.
-2. As mostly the orders as well as revenue was generated from stores from Haryana and Delhi state, more stores can be opened here.
+1. As the sales and revenue for products of SSIPL was at peak during June , July and August ,ads and promotion for Highesh selling product category : Footwear can be run during this time at Delhi, Mumbai and Gurgaon.
+2. As mostly the orders as well as revenue was generated from stores from Haryana and Delhi state, more stores related to Highest Selling product category : Footwear can be opened here.
