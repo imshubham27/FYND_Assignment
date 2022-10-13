@@ -1,5 +1,9 @@
 # FYND Assignment Round
 
+[Power BI Report link](https://app.powerbi.com/links/S062jXdXGl?ctid=3676eb56-2949-4822-a20e-d6cc6931ed14&pbi_source=linkShare)
+
+Screenshot from Power BI is present in Fynd_Task.pdf
+
 ### Problem Statement : 
 As a Data Analyst, you have to Analyse the Data in the sheet attached and analyze the sales data for the last 6 months for one of our sellers SSIPL. Using this data we want you to provide insights on what the seller should do to increase their business for their brand websites using this set of data.
 
